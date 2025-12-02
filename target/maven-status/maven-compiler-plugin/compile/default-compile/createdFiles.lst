@@ -1,0 +1,7 @@
+com\mycompany\inventariskantorapp\InventarisKantorApp.class
+com\inventaris\model\Barang.class
+com\inventaris\InventoryGui$1.class
+com\inventaris\repository\BarangRepository.class
+com\inventaris\AplikasiInventaris.class
+com\inventaris\InventoryGui.class
+com\inventaris\service\BarangService.class
